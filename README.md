@@ -1,7 +1,7 @@
 # 👟 Landing Page Nike - Zapatillas Verdes
 
 <div align="center">
-  <img src="images/preview.png" alt="Nike Page" width="800">
+  <img src="images/previewnike.png" alt="Nike Page" width="800">
 </div>
 
 ## 📝 Descripción
